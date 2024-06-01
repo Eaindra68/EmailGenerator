@@ -1,16 +1,13 @@
 # mailgenerator
 
-A new Flutter project.
+MailGenerator.
+Easy to use.
 
-## Getting Started
+Structure: use of columns and rows for the layout.
+Use of State Management: The app correctly uses the state management features of Flutter to update the UI in response to changes.
 
-This project is a starting point for a Flutter application.
+Styling: gradients and rounded corners
 
-A few resources to get you started if this is your first Flutter project:
+Clipboard Functionality: Including the functionality to copy text to the clipboard is a nice user-friendly feature.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img](https://github.com/Eaindra68/EmailGeneratorSample/assets/117140680/084a4edb-9a8b-4b2b-a43e-a4a57981392b)
